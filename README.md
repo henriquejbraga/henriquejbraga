@@ -1,5 +1,9 @@
 ### Olá, sou o Henrique Junqueira Braga, desenvolvedor web front-end! 👋
 Repositório de projetos: https://github.com/henriquejbraga/Projetos-Trybe-RepositorioGit
+
+
+
+
 Repositório de exercícios das aulas: https://github.com/henriquejbraga/Trybe-exercises
 Atualmente estou estudando na Trybe, uma escola de desenvolvimento web full-stack.
 ### Ferramentas e Tecnologias aprendidas:
@@ -22,31 +26,21 @@ Atualmente estou estudando na Trybe, uma escola de desenvolvimento web full-stac
   CSS
   <img align="center" alt="ewe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   JavaScript
-  <img align="center" alt="ewe-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="ewe-Jest" height="30" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/jest-512.png">
+  Jest
   <img align="center" alt="ewe-React" height="30" width="40" src="https://play-lh.googleusercontent.com/AFY95yFw1P4ErzREpYWiSRyy6GyFA34pc70dP7MuHfkP12alfktC0Rp2ht-LbPAvO5sg">
+  React
   <img align="center" alt="ewe-Redux" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlwhdlrgiz7NiLtmqZtEUpanLIG3fI2UoYFAAyl1ADH7OMRu5BFQSXTcKcgeSwGhRaoIc&usqp=CAU">
+  Redux
 </div>
 ##
 <div>
-  <a href="https://instagram.com/luisffg91" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:luisffg91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luisffg" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/henriquejbraga" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:henrique.junqueira@engenharia.ufjf.br><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/henriquejunqueirabraga" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 ### Hard Skills complementares:
 :cadeado_aberto: React DOM;
 :cadeado_aberto: React Testing Library;
 :cadeado_aberto: Agile Methodology (Scrum && Kanban)
-![Luis Fernando GitHub Stats](https://github-readme-stats.vercel.app/api?username=luiszeh&show_icons=true)
-<!--
-**luiszeh/luiszeh** is a :brilhos: _special_ :brilhos: repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- :telescópio: I’m currently working on ...
-- :muda_de_planta: I’m currently learning ...
-- :dançarinas: I’m looking to collaborate on ...
-- :pensativo: I’m looking for help with ...
-- :balão_de_fala: Ask me about ...
-- :caixa_de_correio: How to reach me: ...
-- :sorriso_olhos_sorrindo: Pronouns: ...
-- :alta_tensão: Fun fact: ...
--->
+
