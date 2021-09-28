@@ -38,11 +38,13 @@ Atualmente estou estudando na Trybe, uma escola de desenvolvimento web full-stac
 
 <div>
   <a href="https://instagram.com/henriquejbraga" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:henrique.junqueira@engenharia.ufjf.br><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/henriquejunqueirabraga" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:henrique.junqueira@engenharia.ufjf.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
+  <a href = "https://www.linkedin.com/in/henriquejunqueirabraga" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ### Hard Skills complementares:
-:cadeado_aberto: React DOM;
-:cadeado_aberto: React Testing Library;
-:cadeado_aberto: Agile Methodology (Scrum && Kanban)
+🔓: React DOM;
+🔓: React Testing Library;
+🔓: Agile Methodology (Scrum && Kanban)
+
+- Obrigado por visitar.
