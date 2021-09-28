@@ -48,3 +48,10 @@ Atualmente estou estudando na Trybe, uma escola de desenvolvimento web full-stac
 🔓: Agile Methodology (Scrum && Kanban)
 
 - Obrigado por visitar.
+
+
+
+[![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquejbraga)](https://github.com/henriquejbraga/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquejbraga&layout=compact)](https://github.com/henriquejbraga/github-readme-stats)
+
