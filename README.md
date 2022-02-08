@@ -1,5 +1,5 @@
 ### Olá, sou o Henrique Junqueira Braga, desenvolvedor web front-end! 👋
-Repositório de projetos: https://github.com/henriquejbraga/Projetos-Trybe-RepositorioGit
+Portfólio pessoal: https://henriquebraga.netlify.app/
 
 
 Repositório de exercícios das aulas: https://github.com/henriquejbraga/Trybe-exercises
