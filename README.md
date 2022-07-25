@@ -4,7 +4,7 @@ Portfólio pessoal: https://henriquebraga.netlify.app/
 
 Repositório de exercícios das aulas: https://github.com/henriquejbraga/Trybe-exercises
 
-Atualmente estou estudando na Trybe, uma escola de desenvolvimento web full-stack.
+Atualmente trabalho como QA na concrete.
 ### Ferramentas e Tecnologias aprendidas:
 <div style="display: inline_block"><br>
   <i class="devicon-html5-plain colored"></i>
